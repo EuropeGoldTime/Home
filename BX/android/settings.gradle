@@ -1,0 +1,3 @@
+rootProject.name = 'BX'
+
+include ':app'
